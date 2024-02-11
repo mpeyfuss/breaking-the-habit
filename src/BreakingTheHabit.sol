@@ -35,7 +35,7 @@ contract BreakingTheHabit is ERC721 {
                                 Constructor
     //////////////////////////////////////////////////////////////////////////*/
 
-    constructor(string memory name, string memory symbol) ERC721(name, symbol) {}
+    constructor() ERC721("Breaking The Habit", "BTH") {}
 
     /*//////////////////////////////////////////////////////////////////////////
                                 Mint & Interact

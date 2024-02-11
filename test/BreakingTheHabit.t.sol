@@ -9,7 +9,7 @@ contract BreakingTheHabitTest is Test {
     BreakingTheHabit bth;
 
     function setUp() public {
-        bth = new BreakingTheHabit("Breaking The Habit", "BTH");
+        bth = new BreakingTheHabit();
     }
 
     function test_mint(string memory habit, address recipient) public {
