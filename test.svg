@@ -1,0 +1,7 @@
+<svg viewBox="0 0 240 240" xmlns="http://www.w3.org/2000/svg">
+    <rect width="100%" height="100%" fill="#12ff12"/>
+    <text x="5%" y="10%" font-size="small">I'm breaking the habit:</text>
+    <text x="5%" y="20%">Smoking</text>
+    <text x="5%" y="40%">Current Streak: 1</text>
+    <text x="5%" y="50%" font-size="small">Longest Streak: 10</text>
+</svg>
